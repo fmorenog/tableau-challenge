@@ -120,3 +120,9 @@ I created a total of 5 dashboards and a portrait with the title of the project c
 <img width="994" alt="dashboard 5" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/7989013c-a3f1-49ca-9424-ea4ec9f82234">
 
 
+
+## Conclusion
+
+As cities trend towards being less dependant on vehicles, infrastructure will allow citizens and tourists to use bicycles and scooters more often and safely. City governments willing to inceitivise the use of this medium will want to keep a record of all the data provided by each trip in order to determine ideal station locations, the health benefits provided to its users, prevent theft, etc.
+
+By doing this challenge I saw that there are some variables that could be benefitial to have, such as duration of the trip and overall distance by each trip. However, with the data provided I was able to find patterns of use between members and non-members, and locate areas in New York that are of high demand, as well as areas of low demand that we might want to consider relocate or work on infraestructure to make them more appealing.
