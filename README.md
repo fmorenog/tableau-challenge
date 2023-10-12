@@ -102,3 +102,4 @@ I created a total of 5 dashboards and a portrait with the title of the project c
 <img width="990" alt="dashboard 2" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/f41ce52f-d720-4d61-b9db-09fc21ece0f9">
 
 
+### 3. Trip duration per bike station
