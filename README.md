@@ -64,3 +64,19 @@ Ensure your presentation is professional, logical, and visually appealing.
 ## Data source
 
 The project required us, due to the large size of each file, to select between 1 and 3 months, each consisting of a CSV file that can be found in the following link: [https://citibikenyc.com/system-data]. For the purposes of this excercise, I decided to work on data from July 2023.
+
+The CSV I used contains 1048575 records with the following variables:
+
+* Ride ID
+* Rideable type
+* Started at
+* Ended at
+* Start station name
+* Start station ID
+* End station name
+* End station ID
+* Start latitude
+* Start longitude
+* End latitude
+* End Longitude
+* Member or casual ride
