@@ -80,3 +80,16 @@ The CSV I used contains 1048575 records with the following variables:
 * End latitude
 * End Longitude
 * Member or casual ride
+
+
+## The New York Citibike Challenge
+
+I created a total of 5 dashboards and a portrait with the title of the project created with Midjourney AI. In this project you'll be able to see how rides behave on each different station throughout New York, the time each type of user uses the bikes more and how this translates to the weekends, and lastly, identify what are the most important and least important stations in the city.
+
+
+
+### 1. Title
+
+<img width="990" alt="Dashboard 6" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/3398ecdb-cd46-4a0d-be07-384705a22a3b">
+
+
