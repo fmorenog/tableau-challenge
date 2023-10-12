@@ -60,4 +60,7 @@ Create a Tableau story that brings together the visualizations, requested maps, 
 Ensure your presentation is professional, logical, and visually appealing.
 
 
+
 ## Data source
+
+The project required us, due to the large size of each file, to select between 1 and 3 months, each consisting of a CSV file that can be found in the following link: [https://citibikenyc.com/system-data]. For the purposes of this excercise, I decided to work on data from July 2023.
