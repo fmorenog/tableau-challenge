@@ -93,3 +93,12 @@ I created a total of 5 dashboards and a portrait with the title of the project c
 <img width="990" alt="Dashboard 6" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/3398ecdb-cd46-4a0d-be07-384705a22a3b">
 
 
+
+### 2. Total rides daily
+
+<img width="905" alt="dashboard 1" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/ba3cb429-20de-47a0-a1f9-bc148cc9ccf8">
+
+
+<img width="990" alt="dashboard 2" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/f41ce52f-d720-4d61-b9db-09fc21ece0f9">
+
+
