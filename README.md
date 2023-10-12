@@ -106,3 +106,17 @@ I created a total of 5 dashboards and a portrait with the title of the project c
 ### 3. Trip duration per bike station
 
 <img width="994" alt="dashboard 3" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/da481c87-8d25-4891-8df8-abf2ca9d3952">
+
+
+
+### 4. Top 25 stations most used in the month of July
+
+<img width="994" alt="dashboard 4" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/607f40d8-b819-47f3-829b-032f7e6fbab8">
+
+
+
+### 5. Stations with less than 100 trips in the month of July
+
+<img width="994" alt="dashboard 5" src="https://github.com/fmorenog/tableau-challenge/assets/135471756/7989013c-a3f1-49ca-9424-ea4ec9f82234">
+
+
